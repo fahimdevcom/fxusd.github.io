@@ -1,0 +1,106 @@
+/** ------------------------------------------------------------------
+							Wrapper Screen
+------------------------------------------------------------------ **/
+@media only screen and (max-width: 1600px) {
+
+}
+
+
+@media only screen and (max-width: 1300px) {
+
+}
+
+/** ------------------------------------------------------------------
+							Mobile Screen
+------------------------------------------------------------------ **/
+@media only screen and (max-width: 768px ) {
+.header_logo 0 {
+	margin-top: 1px;
+}
+.header_logo img {
+	height: 36px;
+}
+.header_menu {
+	margin-top: 8.5px;
+	margin-right: 15px;
+}
+.header_social {
+	margin-top: 0;
+}
+.home_hero_area  {
+	text-align: center;
+}
+.home_hero_details {
+	margin-top: 0;
+	padding: 0 15px;
+}
+.home_hero_details h2 {
+	font-size: 41px;
+}
+.home_hero_details_img {
+	padding-left: 0;
+}
+.home_hero_details_img {
+	margin-top: 40px;
+}
+.home_hero_details_img img {
+	width: 100%;
+	height: auto;
+	display: inline-block;
+	max-width: 252px;
+}
+.height-space {
+	height: 70px !important;
+}
+.section_title h2 {
+	font-size: 28px;
+}
+.home_promo_details_img {
+	display: none;
+}
+.section_title p {
+	font-size: 15px;
+	margin-top: 10px;
+}
+.home_promo_area .section_title {
+	margin-bottom: 30px;
+}
+.single_promo_number span {
+	font-size: 16px;
+}
+.single_promo_number {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+}
+.single_promo {
+	padding-left: 68px;
+}
+.home_promo_area {
+	margin-bottom: 70px;
+}
+.network_row {
+	margin: -20px -11px;
+}
+.network_row > div {
+	padding: 20px 11px;
+}
+.single_network img {
+	height: 70px;
+}
+.single_network {
+	padding: 39px 10px;
+	position: relative;
+	width: 148px;
+	display: inline-block;
+}
+.single_faq_title h2 {
+	font-size: 16px;
+}
+.scrolltotop {
+	display: none !important;
+}
+.home_footer_details {
+	margin-top: 40px;
+}
+}
