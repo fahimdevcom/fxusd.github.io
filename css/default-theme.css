@@ -534,11 +534,11 @@ input[type=submit] {
 	
 }
 .header_logo img{
-	height: 52px;
+	height: 70px;
 	width: auto;
 }
 .header_menu {
-	margin-top: 15.5px;
+	margin-top: 24.5px;
 	margin-right: 37px;
 }
 .header_menu ul{
@@ -622,7 +622,7 @@ input[type=submit] {
 	opacity: 0.7;
 }
 .header_social {
-	margin-top: 7px;
+	margin-top: 16px;
 }
 .header_social ul{
 	list-style: none;
